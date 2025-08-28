@@ -17,7 +17,7 @@ const noKeyWordHeader: IncomingHttpHeaders = {
 describe("getApiKey function tests", () => {
     test("Valid header", () => {
         const output = getAPIKey(goodHeader);
-        expect(output).toEqual("123456");
+        expect(output).toEqual("12345");
     })
 
     test("No header", () => {
