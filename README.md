@@ -1,7 +1,7 @@
 # Tests okay?
 
 ![CI test badge](https://github.com/Jarimus/notely-ts/actions/workflows/ci.yml/badge.svg)
-
+![CD test badge](https://github.com/Jarimus/notely-ts/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
